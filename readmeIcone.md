@@ -10,3 +10,6 @@
 ![1](https://user-images.githubusercontent.com/101947194/226695844-1ba5e9ea-9b32-446d-a10b-7ce0009105d9.svg)
 ![2](https://user-images.githubusercontent.com/101947194/226695849-5ec9bf26-c912-47d9-9b1b-a9be0fe6dff4.svg)
 ![3](https://user-images.githubusercontent.com/101947194/226695855-c2b198dc-d040-4844-a482-e888ca25914a.svg)
+
+![vim-icon](https://user-images.githubusercontent.com/101947194/226700762-98835e14-fcf7-4ae1-9b9d-46fce825d084.svg)
+![visual-studio-code-icon](https://user-images.githubusercontent.com/101947194/226700770-06000656-efe7-47f0-9899-b1d77f64a9b9.svg)
